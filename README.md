@@ -1,3 +1,6 @@
+(This project won one of the best five projects out of 70 in terms of the functionality and user interface)
+
+
 Simulation Game Rules :
 
 The game consists of a main simulation 10x10 grid where the whole map is taking place.
