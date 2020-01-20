@@ -1,5 +1,8 @@
-(This project won one of the best five out of 70 projects in my class in terms of the functionality and user interface)
+(This project won one of the best five projects out of 70 projects in my class in terms of the functionality and user interface)
 
+Intro : 
+
+this project consist of 10x10 grid . each cell contains either a citizen , bulding or rescue units . the game consists of a number of cycles .at some point or cycle , a disaster hit a random cell where the user try to rescue this cell by sending to it the right rescue unit . the goal of the game is over when all the planned disaster are either handeled or the user failed to handle it . 
 
 Simulation Game Rules :
 
