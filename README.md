@@ -1,4 +1,4 @@
-(This project won one of the best five projects out of 70 projects in my class in terms of the functionality and user interface)
+(This project won one of the best five out of 70 projects in my class in terms of the functionality and user interface)
 
 
 Simulation Game Rules :
