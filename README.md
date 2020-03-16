@@ -1,3 +1,4 @@
+The project focuses mainly on object oriented programming and types of exceptions and handling them
 
 this project consist of 10x10 grid . each cell contains either a citizen , bulding or rescue units . the game consists of a number of cycles .at some point or cycle , a disaster hit a random cell where the user try to rescue this cell by sending the right rescue unit . the goal of the game is over when all the planned disaster are either handeled or the user failed to handle it . 
 
