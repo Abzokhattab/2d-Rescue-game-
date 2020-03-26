@@ -25,4 +25,3 @@ The game is cycle based meaning that time is represented as cycles passing withi
 simulation. Each rescue task takes a specific number of cycles and each disaster reaches its full
 effect in a specific number of cycles. The player controls the progression of the cycles.
 
-(This project got one of the best five projects out of 70 projects in my class in terms of the functionality and user interface)
